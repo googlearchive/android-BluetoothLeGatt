@@ -1,4 +1,1 @@
-
-
-
-include 'BluetoothLeGattSample'
+include 'Application'
