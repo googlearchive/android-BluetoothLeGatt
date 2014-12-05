@@ -9,4 +9,9 @@ categories:   [Connectivity]
 languages:    [Java]
 solutions:    [Mobile]
 github:       android-BluetoothLeGatt
+level:        ADVANCED
+icon:         screenshots/icon-web.png
+apiRefs:
+    - android:android.app.Service
+    - android:android.bluetooth.BluetoothGattService
 license: apache2
